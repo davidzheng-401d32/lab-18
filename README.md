@@ -5,7 +5,7 @@
 ### Author: David Zheng 
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
+* [submission PR](https://github.com/davidzheng-401d32/lab-18/pull/1)
 * [travis](http://xyz.com)
 * [back-end](http://xyz.com) (when applicable)
 * [front-end](http://xyz.com) (when applicable)
