@@ -1,0 +1,29 @@
+{
+  "name": "lab-18",
+  "version": "1.0.0",
+  "description": "## Socket.io",
+  "main": "app.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "lint": "eslint **/*.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidzheng-401d32/lab-18.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidzheng-401d32/lab-18/issues"
+  },
+  "homepage": "https://github.com/davidzheng-401d32/lab-18#readme",
+  "dependencies": {
+    "eslint": "^6.6.0",
+    "socket.io": "^2.3.0",
+    "socket.io-client": "^2.3.0"
+  }
+}
